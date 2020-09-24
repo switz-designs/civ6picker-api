@@ -1674,5 +1674,61 @@
         "name": "This Blood is the Life",
         "description": "Earn all Governor promotions for the Sanguine Pact Secret Society.",
         "leader-specific": false
+    },
+    "STK3_ACHIEVEMENT_01": {
+        "name": "One Eye in One Hundred",
+        "description": "Win a regular game as Basil II.",
+        "leader-specific": true,
+        "leaders": [
+            "Basil II"
+        ]
+    },
+    "STK3_ACHIEVEMENT_02": {
+        "name": "Et tu, Gallia?",
+        "description": "Win a regular game as Ambiorix.",
+        "leader-specific": true,
+        "leaders": [
+            "Ambiorix"
+        ]
+    },
+    "STK3_ACHIEVEMENT_03": {
+        "name": "Rome is Where the Heart is",
+        "description": "As Byzantium, take the original capital of Rome while it is following your founded religion.",
+        "leader-specific": true,
+        "leaders": [
+            "Basil II"
+        ]
+    },
+    "STK3_ACHIEVEMENT_04": {
+        "name": "Crom Laughs at Your Tanks",
+        "description": "As Gaul, kill a Tank with a Gaesatae.",
+        "leader-specific": true,
+        "leaders": [
+            "Ambiorix"
+        ]
+    },
+    "STK3_ACHIEVEMENT_05": {
+        "achieved": 0,
+        "unlocktime": 0,
+        "name": "Things Fall Apart",
+        "description": "In Dramatic Ages Mode, lose 4 or more cities by entering a Dark Age.",
+        "leader-specific": false
+    },
+    "STK3_ACHIEVEMENT_06": {
+        "achieved": 0,
+        "unlocktime": 0,
+        "name": "The City Ever-Shining",
+        "description": "In Dramatic Ages Mode, enter a Golden Age with an excess 20 Era Score",
+        "leader-specific": false
+    },
+    "STK3_ACHIEVEMENT_07": {
+        "achieved": 0,
+        "unlocktime": 0,
+        "name": "No Light Without the Dark",
+        "description": "In Dramatic Age Mode, as Georgia, have simultaneously a Golden and a Dark Policy active.",
+        "leader-specific": true,
+        "leaders": [
+            "Tamar"
+        ]
     }
 }
