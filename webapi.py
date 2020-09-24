@@ -4,6 +4,7 @@
 
 from flask import Flask
 import requests
+from flask_cors import CORS
 from dotenv import load_dotenv
 import os
 from helpers import *
@@ -19,6 +20,7 @@ LEADER_LIST = import_list_from_file(LEADERS_FILE)
 ACH_REF_DICT = build_achievement_reference(ACH_REF_FILE, STEAM_API_KEY, CIV6_APPID)
 
 app = Flask(__name__)
+CORS(app)
 
 
 @app.route('/getall')
@@ -149,6 +151,4 @@ def append_achievement_icons(ach_selection):
 """
 
 if __name__ == "__main__":
-    from flask_cors import CORS
-    CORS(app)
     app.run()
