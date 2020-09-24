@@ -1,0 +1,1678 @@
+{
+    "NEW_ACHIEVEMENT_2_0": {
+        "name": "Game, Settler, Match",
+        "description": "Win a regular game at Settler difficulty or harder",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_2_1": {
+        "name": "Irish Heartbeat",
+        "description": "Win a regular game at Chieftain difficulty or harder",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_2_2": {
+        "name": "Warlording Over Others",
+        "description": "Win a regular game at Warlord difficulty or harder",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_2_3": {
+        "name": "Machiavelli's Great Work",
+        "description": "Win a regular game at Prince difficulty or harder",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_2_4": {
+        "name": "The Divine Right of Kings",
+        "description": "Win a regular game at King difficulty or harder",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_2_5": {
+        "name": "Emperor's New Groove",
+        "description": "Win a regular game at Emperor difficulty or harder",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_2_6": {
+        "name": "12 Labors of Hercules",
+        "description": "Win a regular game at Immortal difficulty or harder",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_2_7": {
+        "name": "God-Like",
+        "description": "Win a regular game at Deity difficulty",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_2_8": {
+        "name": "Mission to Mars",
+        "description": "Win a regular game with a Science victory on any difficulty with any leader",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_2_9": {
+        "name": "Nirvana",
+        "description": "Win a regular game with a Religious victory on any difficulty with any leader",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_2_10": {
+        "name": "Buying Your Blue Jeans and Listening to Your Pop Music",
+        "description": "Win a regular game with a Culture victory on any difficulty with any leader",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_2_11": {
+        "name": "Veni, vidi, vici",
+        "description": "Win a regular game with a Domination victory on any difficulty with any leader",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_2_12": {
+        "name": "Crusader King",
+        "description": "Win a regular game as Frederick Barbarossa",
+        "leader-specific": true,
+        "leaders": [
+            "Frederick Barbarossa"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_13": {
+        "name": "Valois Dynasty",
+        "description": "Win a regular game as Catherine De Medici",
+        "leader-specific": true,
+        "leaders": [
+            "Catherine de Medici (Black Queen)",
+            "Catherine de Medici (Magnificence)"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_14": {
+        "name": "Daughter of Isis",
+        "description": "Win a regular game as Cleopatra",
+        "leader-specific": true,
+        "leaders": [
+            "Cleopatra"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_15": {
+        "name": "Be the Change You Wish to See In the World",
+        "description": "Win a regular game as Gandhi",
+        "leader-specific": true,
+        "leaders": [
+            "Gandhi"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_16": {
+        "name": "First to Civilize",
+        "description": "Win a regular game as Gilgamesh",
+        "leader-specific": true,
+        "leaders": [
+            "Gilgamesh"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_17": {
+        "name": "For Sparta!!!",
+        "description": "Win a regular game as Gorgo",
+        "leader-specific": true,
+        "leaders": [
+            "Gorgo"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_18": {
+        "name": "Varangian Guard",
+        "description": "Win a regular game as Harald Hardrada",
+        "leader-specific": true,
+        "leaders": [
+            "Harald Hardrada"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_19": {
+        "name": "Katsu!",
+        "description": "Win a regular game as Hojo Tokimune",
+        "leader-specific": true,
+        "leaders": [
+            "Hojo Tokimune"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_20": {
+        "name": "Montezuma's Revenge",
+        "description": "Win a regular game as Montezuma",
+        "leader-specific": true,
+        "leaders": [
+            "Montezuma"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_21": {
+        "name": "Mwene Kongo",
+        "description": "Win a regular game as Mvemba a Nzinga",
+        "leader-specific": true,
+        "leaders": [
+            "Mvemba a Nzinga"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_22": {
+        "name": "Emperor of Brazil",
+        "description": "Win a regular game as Pedro II",
+        "leader-specific": true,
+        "leaders": [
+            "Pedro II"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_23": {
+        "name": "Oratorical Skills",
+        "description": "Win a regular game as Pericles",
+        "leader-specific": true,
+        "leaders": [
+            "Pericles"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_24": {
+        "name": "Bronze Horseman",
+        "description": "Win a regular game as Peter the Great",
+        "leader-specific": true,
+        "leaders": [
+            "Peter"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_25": {
+        "name": "Non Sufficit Orbis",
+        "description": "Win a regular game as Philip II",
+        "leader-specific": true,
+        "leaders": [
+            "Philip II"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_26": {
+        "name": "Elixir of Immortality",
+        "description": "Win a regular game as Qin Shi Huang",
+        "leader-specific": true,
+        "leaders": [
+            "Qin Shi Huang"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_27": {
+        "name": "Sultan of Egypt",
+        "description": "Win a regular game as Saladin",
+        "leader-specific": true,
+        "leaders": [
+            "Saladin"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_28": {
+        "name": "Warrior Queen",
+        "description": "Win a regular game as Tomyris",
+        "leader-specific": true,
+        "leaders": [
+            "Tomyris"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_29": {
+        "name": "Rome If You Want To",
+        "description": "Win a regular game as Trajan",
+        "leader-specific": true,
+        "leaders": [
+            "Trajan"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_30": {
+        "name": "Let Teddy Win",
+        "description": "Win a regular game as Theodore Roosevelt",
+        "leader-specific": true,
+        "leaders": [
+            "Teddy Roosevelt (Bull Moose)",
+            "Teddy Roosevelt (Rough Rider)"
+        ]
+    },
+    "NEW_ACHIEVEMENT_2_31": {
+        "name": "I Am Amused",
+        "description": "Win a regular game as Victoria",
+        "leader-specific": true,
+        "leaders": [
+            "Victoria"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_0": {
+        "name": "Gift From the Storm God",
+        "description": "Receive a Strategic Resource from Hattusa",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_3_1": {
+        "name": "Legends of the Hidden Temple",
+        "description": "Build a Colossal Head adjacent to a Holy Site with a Temple.",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_3_2": {
+        "name": "Army of Cthulhu",
+        "description": "Levy the military of Nan Madol",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_3_3": {
+        "name": "100th Anniversary",
+        "description": "As America make a National Park of Crater Lake and both tiles of Yosemite in one game",
+        "leader-specific": true,
+        "leaders": [
+            "Teddy Roosevelt (Bull Moose)",
+            "Teddy Roosevelt (Rough Rider)"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_4": {
+        "name": "Arabian Knights",
+        "description": "Conquer a city with a Mamluk",
+        "leader-specific": true,
+        "leaders": [
+            "Saladin"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_5": {
+        "name": "Huey Tlatoani",
+        "description": "As Aztecs on a standard-sized map, attack an opponent while receiving a +16 Combat Strength bonus for having all of the luxuries",
+        "leader-specific": true,
+        "leaders": [
+            "Montezuma"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_6": {
+        "name": "2016 Ready",
+        "description": "Playing as Brazil, complete both Estadio Do Maracana and Christo Redentor in one city",
+        "leader-specific": true,
+        "leaders": [
+            "Pedro II"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_7": {
+        "name": "Crouching Tiger Hidden Cannon",
+        "description": "Playing as China, end a turn with 5 Crouching Tigers on Great Wall tiles",
+        "leader-specific": true,
+        "leaders": [
+            "Qin Shi Huang"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_8": {
+        "name": "Walk Like an Egyptian",
+        "description": "As Egypt build a Sphinx adjacent to the Pyramids both on Floodplains",
+        "leader-specific": true,
+        "leaders": [
+            "Cleopatra"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_9": {
+        "name": "Flight Slingulator",
+        "description": "Airlift a level 3 Slinger",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_3_10": {
+        "name": "For Queen and Country",
+        "description": "Playing as England on a Huge map, have a city on every continent at the start of the turn",
+        "leader-specific": true,
+        "leaders": [
+            "Victoria",
+            "Eleanor of Aquitaine (England)"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_11": {
+        "name": "Loire Valley",
+        "description": "Create 5 Châteaux in one city with the Wine resource.",
+        "leader-specific": true,
+        "leaders": [
+            "Catherine de Medici (Black Queen)",
+            "Catherine de Medici (Magnificence)",
+            "Eleanor of Aquitaine (France)"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_12": {
+        "name": "Third Crusade",
+        "description": "Playing as Frederick Barbarossa, conquer the city-state of Jerusalem",
+        "leader-specific": true,
+        "leaders": [
+            "Frederick Barbarossa"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_13": {
+        "name": "12 Olympians",
+        "description": "Have 12 Policy Slots as Greece",
+        "leader-specific": true,
+        "leaders": [
+            "Gorgo",
+            "Pericles"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_14": {
+        "name": "Give Peace a Chance",
+        "description": "Playing as India on a Huge map, receive +35 Faith in one turn from the Satyagraha ability",
+        "leader-specific": true,
+        "leaders": [
+            "Gandhi"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_15": {
+        "name": "Meiji Restoration",
+        "description": "Playing as Japan, have a district with 6 adjacent unpillaged districts",
+        "leader-specific": true,
+        "leaders": [
+            "Hojo Tokimune"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_16": {
+        "name": "City of Kongo",
+        "description": "Playing as Kongo, have a capital city with a population of 30",
+        "leader-specific": true,
+        "leaders": [
+            "Mvemba a Nzinga"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_17": {
+        "name": "Viking Raid",
+        "description": "Capture a settler with a Viking Longship",
+        "leader-specific": true,
+        "leaders": [
+            "Harald Hardrada"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_18": {
+        "name": "Missed That Day in History Class",
+        "description": "Clear nuclear contamination with a Roman Legion",
+        "leader-specific": true,
+        "leaders": [
+            "Trajan"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_19": {
+        "name": "Trans-Siberian Railroad",
+        "description": "Playing as Russia, have a city that is at least 60 tiles away from your capital, connected by a Trade Route and road at the start of the turn.",
+        "leader-specific": true,
+        "leaders": [
+            "Peter"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_20": {
+        "name": "Scythian Horse Rush",
+        "description": "Playing as Scythia have 10 Saka Horse Archers in your army",
+        "leader-specific": true,
+        "leaders": [
+            "Tomyris"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_21": {
+        "name": "Nobody Expects the Spanish Inquisition",
+        "description": "Launch an Inquisition as Spain",
+        "leader-specific": true,
+        "leaders": [
+            "Philip II"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_22": {
+        "name": "Epic of Gilgamesh",
+        "description": "As Sumeria, have the first Great Work of Writing",
+        "leader-specific": true,
+        "leaders": [
+            "Gilgamesh"
+        ]
+    },
+    "NEW_ACHIEVEMENT_3_23": {
+        "name": "The Origin of Species",
+        "description": "Activate Darwin adjacent to the Galapagos Islands",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_3_24": {
+        "name": "Oneth By Land Twoeth By Sea",
+        "description": "Have an Army of land Units and 2 Armadas",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_3_25": {
+        "name": "Here's Looking At You Kid",
+        "description": "Win a regular game on a Duel Map",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_3_26": {
+        "name": "Four Corners Offense",
+        "description": "Win a regular game on a Tiny Map",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_3_27": {
+        "name": "Six Shooter",
+        "description": "Win a regular game on a Small Map",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_3_28": {
+        "name": "Eight is Enough",
+        "description": "Win a regular game on a Standard Map",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_3_29": {
+        "name": "Ten Commandments",
+        "description": "Win a regular game on a Large Map",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_3_30": {
+        "name": "Dirty Dozen",
+        "description": "Win a regular game on a Huge Map",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_3_31": {
+        "name": "Tectonic Shift",
+        "description": "Win a regular game on the Continents Map",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_0": {
+        "name": "Mare Nostrum",
+        "description": "Win a regular game on the Inland Sea Map",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_1": {
+        "name": "The Taste of Victory",
+        "description": "Win a regular game on the Island Plates Map",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_2": {
+        "name": "Riffle and Bridge",
+        "description": "Win a regular game on the Shuffle Map",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_3": {
+        "name": "Alfred Wegener's Legacy",
+        "description": "Win a regular game on the Pangaea Map",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_5": {
+        "name": "Archimedes Bath",
+        "description": "Get 5 Tech boosts in 1 turn",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_6": {
+        "name": "Civ 6 Civets System",
+        "description": "Get 5 Civic boosts in 1 turn",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_7": {
+        "name": "Luftballons",
+        "description": "Use a bomber class unit to detonate a nuclear device, as long as its base and 9 Observation Balloons are located on the continent of Nena at the time of detonation.",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_8": {
+        "name": "Pizza Party!",
+        "description": "Activate Leonardo da Vinci in New York with Great Works from Michelangelo and Donatello -- and a sewer -- all in that city",
+        "leader-specific": true,
+        "leaders": [
+            "Teddy Roosevelt (Bull Moose)",
+            "Teddy Roosevelt (Rough Rider)"
+        ]
+    },
+    "NEW_ACHIEVEMENT_4_9": {
+        "name": "Seven Wonders of the Post-Apocalyptic World",
+        "description": "Launch a weapon of mass destruction and have it pillage seven wonders",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_10": {
+        "name": "Repo Man",
+        "description": "Steal a Great Work of Art and don't get caught",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_11": {
+        "name": "District 12",
+        "description": "Build every district type in one city and the Colosseum",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_12": {
+        "name": "Land Party",
+        "description": "Play a multiplayer game",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_13": {
+        "name": "Escort Service",
+        "description": "Put two units into a formation",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_14": {
+        "name": "If You Build It, They Will Come",
+        "description": "Have 6 Improvements at one time.",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_15": {
+        "name": "Voyage of the Mayflower",
+        "description": "Found or conquer a city on a different continent",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_16": {
+        "name": "Everything is Awesome!!!",
+        "description": "At the start of the turn have an Ecstatic city.",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_17": {
+        "name": "Investment Banking",
+        "description": "Have an enemy city under siege at the start of the turn",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_18": {
+        "name": "A Case for War",
+        "description": "Declare a formal war",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_19": {
+        "name": "Naming Rights",
+        "description": "Name a unit",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_20": {
+        "name": "A Revolution Without Dancing",
+        "description": "Change your government",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_21": {
+        "name": "Secret Service",
+        "description": "Have top secret access with five civilizations in one game at once.",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_22": {
+        "name": "Silver Anniversary",
+        "description": "Possess 6 Silver luxury resources at the start of the turn",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_23": {
+        "name": "New Orleans Style Spanish Rice",
+        "description": "Become Suzerain of a City-State",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_24": {
+        "name": "Man on the Moon",
+        "description": "Win a regular game with a Science victory on any difficulty with any leader with a captured Egyptian city -- having also activated Newton and Darwin",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_25": {
+        "name": "We Are The Champions",
+        "description": "Win a regular game with a Religious victory with your dominant religion being Zoroastrianism and at the time of victory you are the Suzerain of Zanzibar",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_26": {
+        "name": "Selfie",
+        "description": "Win a regular game with a Culture victory with your leader in the game as your opponent as well",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_27": {
+        "name": "Island Hopping",
+        "description": "Win a regular game with a Domination victory on any difficulty with any leader on a Huge Island Plates map.",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_28": {
+        "name": "The Test of Time",
+        "description": "Win a regular game with an Ancient Era start",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_29": {
+        "name": "After Antiquity",
+        "description": "Win a regular game with a Classical Era start",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_30": {
+        "name": "Out of the Dark Ages",
+        "description": "Win a regular game with a Medieval Era start",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_31": {
+        "name": "Renaissance Man",
+        "description": "Win a regular game with a Renaissance Era start",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_5_0": {
+        "name": "Captain of Industry",
+        "description": "Win a regular game with an Industrial Era start",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_5_1": {
+        "name": "Modern Major General",
+        "description": "Win a regular game with a Modern Era start",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_5_2": {
+        "name": "Splitting the Atom",
+        "description": "Win a regular game with an Atomic Era start",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_5_3": {
+        "name": "Through the Digital Age",
+        "description": "Win a regular game with an Information Era start",
+        "leader-specific": false
+    },
+    "NEW_ACHIEVEMENT_4_4": {
+        "name": "Unique Snowflake",
+        "description": "Win a regular game on Fractal Map",
+        "leader-specific": false
+    },
+    "DLC1_ACHIEVEMENT_01": {
+        "name": "Even Our Castles Have Castles",
+        "description": "Build an Alcazar within 2 tiles of the Alhambra",
+        "leader-specific": false
+    },
+    "DLC1_ACHIEVEMENT_02": {
+        "name": "Finn MacCool's Pipe Organ",
+        "description": "Build a Monastery within 2 tiles of the Giant's Causeway",
+        "leader-specific": false
+    },
+    "DLC1_ACHIEVEMENT_03": {
+        "name": "What Do You Mean, \"Active Volcano?\"",
+        "description": "Build three Aerodromes within 2 tiles of Eyjafjallajökull",
+        "leader-specific": false
+    },
+    "DLC1_ACHIEVEMENT_04": {
+        "name": "Absolutely Nothing Rotten in the State of Denmark",
+        "description": "Win Vikings, Traders, and Raiders! as Canute",
+        "leader-specific": false
+    },
+    "DLC1_ACHIEVEMENT_05": {
+        "name": "More Hacksilver For Harald",
+        "description": "Win Vikings, Traders, and Raiders! as Harald Hardrada",
+        "leader-specific": false
+    },
+    "DLC1_ACHIEVEMENT_06": {
+        "name": "Master of the Baltic",
+        "description": "Win Vikings, Traders, and Raiders! as Olof Skötkonung",
+        "leader-specific": false
+    },
+    "DLC1_ACHIEVEMENT_07": {
+        "name": "God of the Sea",
+        "description": "Win Vikings, Traders, and Raiders! at Deity difficulty",
+        "leader-specific": false
+    },
+    "DLC2_ACHIEVEMENT_01": {
+        "name": "Armor of Faith",
+        "description": "Win a regular game as Jadwiga",
+        "leader-specific": true,
+        "leaders": [
+            "Jadwiga"
+        ]
+    },
+    "DLC2_ACHIEVEMENT_02": {
+        "name": "You Are A Terrible Person",
+        "description": "Playing as Poland, destroy another civilization's incomplete wonder by initiating a Culture Bomb",
+        "leader-specific": true,
+        "leaders": [
+            "Jadwiga"
+        ]
+    },
+    "DLC2_ACHIEVEMENT_03": {
+        "name": "Winged Hussar Mastery",
+        "description": "Win Jadwiga's Legacy as Stanislaw Potocki",
+        "leader-specific": false
+    },
+    "DLC2_ACHIEVEMENT_04": {
+        "name": "Always Bet On Black",
+        "description": "Win Jadwiga's Legacy as Mikolaj \"the Black\" Radziwill",
+        "leader-specific": false
+    },
+    "DLC2_ACHIEVEMENT_05": {
+        "name": "The Grandest of Hetmans",
+        "description": "Win Jadwiga's Legacy as Konstanty Ostrogski",
+        "leader-specific": false
+    },
+    "DLC2_ACHIEVEMENT_06": {
+        "name": "God-Like Legacy",
+        "description": "Win Jadwiga's Legacy at Deity difficulty",
+        "leader-specific": false
+    },
+    "DLC3_ACHIEVEMENT_01": {
+        "name": "A Smashing Victory",
+        "description": "Win a regular game as John Curtin",
+        "leader-specific": true,
+        "leaders": [
+            "John Curtin"
+        ]
+    },
+    "DLC3_ACHIEVEMENT_02": {
+        "name": "Wood for Sheep",
+        "description": "Playing as Australia, build a Pasture over Sheep and steal an adjacent player's Lumbermill",
+        "leader-specific": true,
+        "leaders": [
+            "John Curtin"
+        ]
+    },
+    "DLC3_ACHIEVEMENT_03": {
+        "name": "Revenge of the Banana Benders",
+        "description": "Win Outback Tycoon as Queensland",
+        "leader-specific": false
+    },
+    "DLC3_ACHIEVEMENT_04": {
+        "name": "Crow-eater Conquest",
+        "description": "Win Outback Tycoon as South Australia",
+        "leader-specific": false
+    },
+    "DLC3_ACHIEVEMENT_05": {
+        "name": "Gumsucker Punch",
+        "description": "Win Outback Tycoon as Victoria",
+        "leader-specific": false
+    },
+    "DLC3_ACHIEVEMENT_06": {
+        "name": "Sandgroper Sweep",
+        "description": "Win Outback Tycoon as Western Australia",
+        "leader-specific": false
+    },
+    "DLC3_ACHIEVEMENT_07": {
+        "name": "Meanwhile, in Australia",
+        "description": "Win Outback Tycoon at Deity difficulty",
+        "leader-specific": false
+    },
+    "DLC3_ACHIEVEMENT_08": {
+        "name": "Quite a Crowded House",
+        "description": "Complete an online multiplayer game of Outback Tycoon",
+        "leader-specific": false
+    },
+    "DLC3_ACHIEVEMENT_09": {
+        "name": "Midnight Oil",
+        "description": "Build an Oil Well on the final turn of the Outback Tycoon scenario",
+        "leader-specific": false
+    },
+    "DLC3_ACHIEVEMENT_10": {
+        "name": "Attack of the Drop Bear",
+        "description": "Lose a unit to the perils of Australia in the Outback Tycoon scenario",
+        "leader-specific": false
+    },
+    "DLC4_ACHIEVEMENT_01": {
+        "name": "Never Lost a Battle",
+        "description": "Win a regular game as Alexander",
+        "leader-specific": true,
+        "leaders": [
+            "Alexander"
+        ]
+    },
+    "DLC4_ACHIEVEMENT_02": {
+        "name": "King of the Four Corners of the World",
+        "description": "Win a regular game as Cyrus",
+        "leader-specific": true,
+        "leaders": [
+            "Cyrus"
+        ]
+    },
+    "DLC4_ACHIEVEMENT_03": {
+        "name": "Greatest Is As Greatest Does",
+        "description": "Playing as Macedon, conquer a city containing both the Great Library and Great Lighthouse wonders",
+        "leader-specific": true,
+        "leaders": [
+            "Alexander"
+        ]
+    },
+    "DLC4_ACHIEVEMENT_04": {
+        "name": "Some Wine For Your Soldiers?",
+        "description": "Playing as Persia, conquer the original Scythian capital within 10 turns of declaring a surprise war on Scythia",
+        "leader-specific": true,
+        "leaders": [
+            "Cyrus"
+        ]
+    },
+    "DLC4_ACHIEVEMENT_05": {
+        "name": "Envoy Convoy",
+        "description": "After building the Apadana wonder, construct 7 additional wonders in the same city",
+        "leader-specific": false
+    },
+    "DLC4_ACHIEVEMENT_06": {
+        "name": "No More Worlds To Conquer",
+        "description": "Win Conquests of Alexander on any difficulty",
+        "leader-specific": false
+    },
+    "DLC4_ACHIEVEMENT_07": {
+        "name": "You're the Demonstrably Greatest",
+        "description": "Achieve the highest possible rank in Conquests of Alexander at Deity difficulty",
+        "leader-specific": false
+    },
+    "DLC4_ACHIEVEMENT_08": {
+        "name": "He Named Them All After Himself?",
+        "description": "Settle four cities in Conquests of Alexander on any difficulty",
+        "leader-specific": false
+    },
+    "DLC4_ACHIEVEMENT_09": {
+        "name": "Resplendent Panoply",
+        "description": "Possess all of the following after conquering a city in Conquests of Alexander: Hoplite, Saka Horse Archer, Maryannu Chariot Archer, Immortal, and Varu",
+        "leader-specific": false
+    },
+    "DLC4_ACHIEVEMENT_10": {
+        "name": "I Quenched Your Thirst For Blood",
+        "description": "Playing as Scythia, recapture one of your founded cities from Persia",
+        "leader-specific": true,
+        "leaders": [
+            "Tomyris"
+        ]
+    },
+    "DLC5_ACHIEVEMENT_01": {
+        "name": "gg nub",
+        "description": "Win a regular game as Amanitore",
+        "leader-specific": true,
+        "leaders": [
+            "Amanitore"
+        ]
+    },
+    "DLC5_ACHIEVEMENT_02": {
+        "name": "Pyramid Scheme",
+        "description": "As Nubia, earn six different adjacency bonuses on a Nubian Pyramid",
+        "leader-specific": true,
+        "leaders": [
+            "Amanitore"
+        ]
+    },
+    "DLC5_ACHIEVEMENT_3": {
+        "name": "Claim the Fourth Cataract",
+        "description": "Playing as Egypt in a regular game, conquer the original Nubian capital within 10 turns of declaring a formal war on Nubia",
+        "leader-specific": true,
+        "leaders": [
+            "Cleopatra"
+        ]
+    },
+    "DLC5_ACHIEVEMENT_4": {
+        "name": "The 25th Dynasty",
+        "description": "Playing as Nubia, liberate the original Egyptian capital in a liberation war with the capital's conqueror",
+        "leader-specific": true,
+        "leaders": [
+            "Amanitore"
+        ]
+    },
+    "DLC5_ACHIEVEMENT_05": {
+        "name": "Overclocked Conviction",
+        "description": "After building the Jebel Barkal wonder, earn 28 Faith per turn on its tile",
+        "leader-specific": false
+    },
+    "DLC5_ACHIEVEMENT_06": {
+        "name": "More Wind for the Wind God",
+        "description": "Win Gifts of the Nile on any difficulty",
+        "leader-specific": false
+    },
+    "DLC5_ACHIEVEMENT_07": {
+        "name": "Total A-Nile-hilation",
+        "description": "Playing Gifts of the Nile as Egypt, win on Deity difficulty",
+        "leader-specific": false
+    },
+    "DLC5_ACHIEVEMENT_08": {
+        "name": "That's Some Good Kerma",
+        "description": "Playing Gifts of the Nile as Nubia, win on Deity difficulty",
+        "leader-specific": false
+    },
+    "DLC5_ACHIEVEMENT_09": {
+        "name": "Sea of the Bow",
+        "description": "Playing Gifts of the Nile as Nubia, found a coastal city on the Mediterranean Sea",
+        "leader-specific": false
+    },
+    "DLC5_ACHIEVEMENT_10": {
+        "name": "From Med to Red to the Land of the Dead",
+        "description": "Playing Gifts of the Nile as Egypt, conquer Irem and Punt",
+        "leader-specific": false
+    },
+    "DLC6_ACHIEVEMENT_01": {
+        "name": "Cardamom and Mangos and Elephants",
+        "description": "Win a regular game as Jayavarman VII",
+        "leader-specific": true,
+        "leaders": [
+            "Jayavarman VII"
+        ]
+    },
+    "DLC6_ACHIEVEMENT_02": {
+        "name": "All Beneath the Wings of Garuda",
+        "description": "Win a regular game as Gitarja",
+        "leader-specific": true,
+        "leaders": [
+            "Gitarja"
+        ]
+    },
+    "DLC6_ACHIEVEMENT_03": {
+        "name": "What is Mind? No Matter. ",
+        "description": "Win the Path to Nirvana scenario on any difficulty",
+        "leader-specific": false
+    },
+    "DLC6_ACHIEVEMENT_04": {
+        "name": "What is Matter? Nevermind. ",
+        "description": "Win the Path to Nirvana scenario on Deity",
+        "leader-specific": false
+    },
+    "DLC6_ACHIEVEMENT_05": {
+        "name": "Wat is Love",
+        "description": "Build Angkor Wat and a Wat in Angkor Wat",
+        "leader-specific": true,
+        "leaders": [
+            "Jayavarman VII"
+        ]
+    },
+    "DLC6_ACHIEVEMENT_06": {
+        "name": "Thalassocratophile ",
+        "description": "Have 5 cities on landmasses 5 or less tiles with Indonesia",
+        "leader-specific": true,
+        "leaders": [
+            "Gitarja"
+        ]
+    },
+    "DLC6_ACHIEVEMENT_07": {
+        "name": "Try To Snatch the Pebble From My Hand ",
+        "description": "Have a Warrior Monk with 4 Promotions",
+        "leader-specific": false
+    },
+    "DLC6_ACHIEVEMENT_08": {
+        "name": "Raid Healer",
+        "description": "With a Guru Heal 7 religious units with one action",
+        "leader-specific": false
+    },
+    "DLC6_ACHIEVEMENT_09": {
+        "name": "Many Signs and Wonders ",
+        "description": "Build all 3 Wonders in the Paths to Nirvana scenario",
+        "leader-specific": false
+    },
+    "DLC6_ACHIEVEMENT_10": {
+        "name": "Do You Have A Moment To Talk About Salvation?",
+        "description": "Convert 3 opposing Holy Cities in the Paths to Nirvana scenario",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_01": {
+        "name": "uSuthu! uSuthu!",
+        "description": "Win a regular game as Shaka",
+        "leader-specific": true,
+        "leaders": [
+            "Shaka"
+        ]
+    },
+    "RAF_ACHIEVEMENT_02": {
+        "name": "A Burning Splendor",
+        "description": "Win a regular game as Chandragupta",
+        "leader-specific": true,
+        "leaders": [
+            "Chandragupta"
+        ]
+    },
+    "RAF_ACHIEVEMENT_03": {
+        "name": "A small Country, a great people, so sorely tried",
+        "description": "Win a regular game as Queen Wilhelmina",
+        "leader-specific": true,
+        "leaders": [
+            "Wilhelmina"
+        ]
+    },
+    "RAF_ACHIEVEMENT_04": {
+        "name": "Lord of All Who Live in Felt Tents",
+        "description": "Win a regular game as Genghis Khan",
+        "leader-specific": true,
+        "leaders": [
+            "Genghis Khan"
+        ]
+    },
+    "RAF_ACHIEVEMENT_05": {
+        "name": "From Peonies to Doricheon",
+        "description": "Win a regular game as Queen Seondeok",
+        "leader-specific": true,
+        "leaders": [
+            "Seondeok"
+        ]
+    },
+    "RAF_ACHIEVEMENT_06": {
+        "name": "Let gentle blood shew generous might",
+        "description": "Win a regular game as Robert the Bruce",
+        "leader-specific": true,
+        "leaders": [
+            "Robert the Bruce"
+        ]
+    },
+    "RAF_ACHIEVEMENT_07": {
+        "name": "Radiant Deeds, Bright as Sunshine",
+        "description": "Win a regular game as Tamar",
+        "leader-specific": true,
+        "leaders": [
+            "Tamar"
+        ]
+    },
+    "RAF_ACHIEVEMENT_08": {
+        "name": "Deeds of a Monarch-Scorning People",
+        "description": "Win a regular game as Lautaro",
+        "leader-specific": true,
+        "leaders": [
+            "Lautaro"
+        ]
+    },
+    "RAF_ACHIEVEMENT_09": {
+        "name": "Justice and Lasting Peace",
+        "description": "Win a regular game as Poundmaker",
+        "leader-specific": true,
+        "leaders": [
+            "Poundmaker"
+        ]
+    },
+    "RAF_ACHIEVEMENT_10": {
+        "name": "Master and Commander",
+        "description": "Win a regular game on the Archipelago Map",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_11": {
+        "name": "Reverse Colonialism",
+        "description": "As Lautaro, capture Philip II's original capital city ",
+        "leader-specific": true,
+        "leaders": [
+            "Lautaro"
+        ]
+    },
+    "RAF_ACHIEVEMENT_12": {
+        "name": "Buying your Deels and Listening to Your Throat Singing",
+        "description": "As Genghis, win a Cultural Victory",
+        "leader-specific": true,
+        "leaders": [
+            "Genghis Khan"
+        ]
+    },
+    "RAF_ACHIEVEMENT_13": {
+        "name": "Triple Seven",
+        "description": "As Wilhelmina, have seven cities and seven Zeven de Provincien at the start of the turn",
+        "leader-specific": true,
+        "leaders": [
+            "Wilhelmina"
+        ]
+    },
+    "RAF_ACHIEVEMENT_14": {
+        "name": "Mulligan",
+        "description": "Build a Golf Course in a tile where you had previously attempted to build a Wonder, but got beaten to the Wonder by another Civ",
+        "leader-specific": true,
+        "leaders": [
+            "Robert the Bruce"
+        ]
+    },
+    "RAF_ACHIEVEMENT_15": {
+        "name": "Adamantine Confederacy",
+        "description": "As Poundmaker, have an active Alliance of every type",
+        "leader-specific": true,
+        "leaders": [
+            "Poundmaker"
+        ]
+    },
+    "RAF_ACHIEVEMENT_16": {
+        "name": "I Thought We'd Moved Past This Joke",
+        "description": "As Chandragupta, launch a nuclear weapon",
+        "leader-specific": true,
+        "leaders": [
+            "Chandragupta"
+        ]
+    },
+    "RAF_ACHIEVEMENT_17": {
+        "name": "Advanced Seminar in Astrophysics",
+        "description": "As Seondeok, build a Spaceport district next to a Seowon",
+        "leader-specific": true,
+        "leaders": [
+            "Seondeok"
+        ]
+    },
+    "RAF_ACHIEVEMENT_18": {
+        "name": "Ibutho",
+        "description": "As Shaka, train a Corps of Impi using the Ikanda district",
+        "leader-specific": true,
+        "leaders": [
+            "Shaka"
+        ]
+    },
+    "RAF_ACHIEVEMENT_19": {
+        "name": "Holy Righteous Queen Tamar",
+        "description": "As Tamar, have every city-state in the game following the religion you founded",
+        "leader-specific": true,
+        "leaders": [
+            "Tamar"
+        ]
+    },
+    "RAF_ACHIEVEMENT_20": {
+        "name": "Subject Matter Expert",
+        "description": "Have a Governor with every promotion",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_21": {
+        "name": "Getting the Band Back Together",
+        "description": "Unlock every Governor, and have them established at the same time before the game reaches the Industrial Era",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_22": {
+        "name": "Drama Queen",
+        "description": "Join or be the target of 3 Emergencies in a single game",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_23": {
+        "name": "Curse your sudden but inevitable betrayal!",
+        "description": "Join a Betrayal Emergency",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_24": {
+        "name": "Blackest Queen",
+        "description": "As France, build an Intelligence Agency",
+        "leader-specific": true,
+        "leaders": [
+            "Catherine de Medici (Black Queen)",
+            "Catherine de Medici (Magnificence)",
+            "Eleanor of Aquitaine (France)"
+        ]
+    },
+    "RAF_ACHIEVEMENT_25": {
+        "name": "Bromance",
+        "description": "Achieve the maximum Alliance level with Gilgamesh",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_26": {
+        "name": "Die Another Day",
+        "description": "Neutralize a Governor with a Spy",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_27": {
+        "name": "Circle of Life",
+        "description": "Build a Fishery adjacent to the Great Barrier Reef",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_28": {
+        "name": "Extend the Olive Branch",
+        "description": "Make a peace deal which includes you giving or receiving an Olives resource",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_29": {
+        "name": "Shopping Spree",
+        "description": "Have 10 Shopping Malls in your civilization at the same time",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_30": {
+        "name": "Desperate Times Call For Desperate Measures",
+        "description": "Assign a Dark Policy to your Government",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_31": {
+        "name": "Frenemy",
+        "description": "Gain control of an Ally's city after it becomes disloyal, and choose to keep it",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_32": {
+        "name": "Elcano's Revenge",
+        "description": "Be the first player to circumnavigate the world after Ferdinand Magellan has been recruited by another player",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_33": {
+        "name": "Dark Horse",
+        "description": "Win the game while in a Dark Age",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_34": {
+        "name": "Taxation Without Representation",
+        "description": "As England, lose a city to disloyalty which has an established Financier Governor",
+        "leader-specific": true,
+        "leaders": [
+            "Victoria",
+            "Eleanor of Aquitaine (England)"
+        ]
+    },
+    "RAF_ACHIEVEMENT_35": {
+        "name": "Victory Belongs to the Most Persevering",
+        "description": "Achieve a Heroic Age",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_36": {
+        "name": "I'm going to break the wheel",
+        "description": "Earn three Golden Ages in a row",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_37": {
+        "name": "What Could Possibly Go Wrong?",
+        "description": "Have an improved Amber resource in a city with a Zoo and an Archaeological Museum at the start of the turn",
+        "leader-specific": false
+    },
+    "RAF_ACHIEVEMENT_38": {
+        "name": "Metroplex",
+        "description": "Completely surround your Government Plaza with districts or wonders you own at the start of the turn",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_01": {
+        "name": "Treasures of Heaven and Earth",
+        "description": "Win a game as Mansa Musa",
+        "leader-specific": true,
+        "leaders": [
+            "Mansa Musa"
+        ]
+    },
+    "VSV_ACHIEVEMENT_02": {
+        "name": "Lord of Tahuantinsuyo",
+        "description": "Win a game as Pachacuti",
+        "leader-specific": true,
+        "leaders": [
+            "Pachacuti"
+        ]
+    },
+    "VSV_ACHIEVEMENT_03": {
+        "name": "Queen of the Byrsa",
+        "description": "Win a game as Dido",
+        "leader-specific": true,
+        "leaders": [
+            "Dido"
+        ]
+    },
+    "VSV_ACHIEVEMENT_04": {
+        "name": "Padishah Efendim",
+        "description": "Win a game as Suleiman The Magnificent",
+        "leader-specific": true,
+        "leaders": [
+            "Suleiman"
+        ]
+    },
+    "VSV_ACHIEVEMENT_05": {
+        "name": "Literally Playable",
+        "description": "Win a game as Kristina",
+        "leader-specific": true,
+        "leaders": [
+            "Kristina"
+        ]
+    },
+    "VSV_ACHIEVEMENT_06": {
+        "name": "The Sunny Way",
+        "description": "Win a game as Wilfrid Laurier",
+        "leader-specific": true,
+        "leaders": [
+            "Wilfrid Laurier"
+        ]
+    },
+    "VSV_ACHIEVEMENT_07": {
+        "name": "Majestrix of the Court of Love",
+        "description": "Win a game as Eleanor of Aquitaine",
+        "leader-specific": true,
+        "leaders": [
+            "Eleanor of Aquitaine (France)",
+            "Eleanor of Aquitaine (England)"
+        ]
+    },
+    "VSV_ACHIEVEMENT_08": {
+        "name": "The Laurels of Virtues and Letters",
+        "description": "Win a game as Matthias Corvinus",
+        "leader-specific": true,
+        "leaders": [
+            "Matthias Corvinus"
+        ]
+    },
+    "VSV_ACHIEVEMENT_09": {
+        "name": "Tu Meke",
+        "description": "Win a game as Kupe",
+        "leader-specific": true,
+        "leaders": [
+            "Kupe"
+        ]
+    },
+    "VSV_ACHIEVEMENT_10": {
+        "name": "The Art of Telling Plain Truths",
+        "description": "Win a Diplomatic Victory",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_11": {
+        "name": "Rivals on Ice",
+        "description": "Playing as Russia, conquer a city with an Ice Hockey rink",
+        "leader-specific": true,
+        "leaders": [
+            "Peter"
+        ]
+    },
+    "VSV_ACHIEVEMENT_12": {
+        "name": "Sid Meier's Ditchdigging Simulator",
+        "description": "Use two cities and the Panama Canal to make 7 contiguous land tiles passable by ships",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_13": {
+        "name": "An Engineer's Dream",
+        "description": "Have a Canal, Dam, Aqueduct, Railroad, Golden Gate Bridge, and Mountain Tunnel in a city",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_14": {
+        "name": "When Diplomacy Fails",
+        "description": "Have a fully upgraded Giant Death Robot capture a city",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_15": {
+        "name": "A Man A Plan A Canal Panama",
+        "description": "Build the Panama Canal as Teddy Roosevelt",
+        "leader-specific": true,
+        "leaders": [
+            "Teddy Roosevelt (Bull Moose)",
+            "Teddy Roosevelt (Rough Rider)"
+        ]
+    },
+    "VSV_ACHIEVEMENT_16": {
+        "name": "Surprise Attack",
+        "description": "Move a military unit into an enemy's owned tile using a Mountain Tunnel (or Qhapaq Nan)",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_17": {
+        "name": "One Tree Hill",
+        "description": "Have one of your Rock Band units perform a concert adjacent to a Maori Pa unique improvement",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_18": {
+        "name": "Seahenge",
+        "description": "Have Stonehenge become submerged due to Coastal Flooding",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_19": {
+        "name": "Rock God",
+        "description": "Have no cities following your religion then convert a city to your religion using a Rock Band unit",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_20": {
+        "name": "Nobel-er than the Noblest",
+        "description": "Achieve first place in all three Nobel Prizes in the same game",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_21": {
+        "name": "Airing Your Grievances",
+        "description": "Win a Diplomatic Victory Resolution and use it to reduce another player's progress toward that victory",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_22": {
+        "name": "Peacekeeper",
+        "description": "As Wilfrid Laurier, successfully complete an Emergency",
+        "leader-specific": true,
+        "leaders": [
+            "Wilfrid Laurier"
+        ]
+    },
+    "VSV_ACHIEVEMENT_23": {
+        "name": "Shield of Christianity",
+        "description": "As Hungary, have Christianity as your dominant religion and defeat a unit whose Civilization's dominant religion is not Christianity",
+        "leader-specific": true,
+        "leaders": [
+            "Matthias Corvinus"
+        ]
+    },
+    "VSV_ACHIEVEMENT_24": {
+        "name": "Po-tay-toes!",
+        "description": "As Pachacuti, construct a Terrace Farm that is adjacent to 2 Aqueducts and 4 Mountains",
+        "leader-specific": true,
+        "leaders": [
+            "Pachacuti"
+        ]
+    },
+    "VSV_ACHIEVEMENT_25": {
+        "name": "One does not simply walk into Ngauruhoe",
+        "description": "As the Maori, have a Maori Toa discover the Ngauruhoe volcano",
+        "leader-specific": true,
+        "leaders": [
+            "Kupe"
+        ]
+    },
+    "VSV_ACHIEVEMENT_26": {
+        "name": "Hajj",
+        "description": "As Mansa Musa, send a Trade Route to Mecca that gives the sending player at least 30 gold",
+        "leader-specific": true,
+        "leaders": [
+            "Mansa Musa"
+        ]
+    },
+    "VSV_ACHIEVEMENT_27": {
+        "name": "Purple Reign",
+        "description": "As Dido, complete the Move Capital project on 4 different continents",
+        "leader-specific": true,
+        "leaders": [
+            "Dido"
+        ]
+    },
+    "VSV_ACHIEVEMENT_28": {
+        "name": "Nobody's Business But the Turks",
+        "description": "As the Ottomans, capture another Civilization's capital and then rename it",
+        "leader-specific": true,
+        "leaders": [
+            "Suleiman"
+        ]
+    },
+    "VSV_ACHIEVEMENT_29": {
+        "name": "Smörgåsbord",
+        "description": "As Kristina, at the start of a turn have cities in five different terrain types (Snow, Tundra, Desert, Plains and Grassland) and have Open Air Museums in all of them",
+        "leader-specific": true,
+        "leaders": [
+            "Kristina"
+        ]
+    },
+    "VSV_ACHIEVEMENT_30": {
+        "name": "Meet the New Boss, Same as the Old Boss",
+        "description": "As Eleanor, gain a city to loyalty that was owned by a different civilization with Eleanor as its leader",
+        "leader-specific": true,
+        "leaders": [
+            "Eleanor of Aquitaine (England)",
+            "Eleanor of Aquitaine (France)"
+        ]
+    },
+    "VSV_ACHIEVEMENT_31": {
+        "name": "Let Our Powers Combine – Wait Heart is Missing!",
+        "description": "Have a city with a Wind Farm, Solar Farm, Hydroelectric Dam, and Geothermal Plant",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_32": {
+        "name": "Toward Carbon Neutrality",
+        "description": "Complete the Carbon Recapture project 10 times during a single game",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_33": {
+        "name": "Future is Now",
+        "description": "Be the first to complete all the technologies in the Future Era in a game with 8 or more players",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_34": {
+        "name": "And the Walls Kept Tumbling Down",
+        "description": "Have your Roman city lose 6 population from one Vesuvius eruption",
+        "leader-specific": true,
+        "leaders": [
+            "Trajan"
+        ]
+    },
+    "VSV_ACHIEVEMENT_35": {
+        "name": "Real Estate Disclosures Required",
+        "description": "Have a district be pillaged by 3 different random events",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_36": {
+        "name": "Eat, Drink and Be Merry",
+        "description": "Win the Black Death as England",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_37": {
+        "name": "Santé Passe Richesse",
+        "description": "Win the Black Death as France",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_38": {
+        "name": "Bendición",
+        "description": "Win the Black Death as Castile",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_39": {
+        "name": "Gesundheit",
+        "description": "Win the Black Death as the Holy Roman Empire",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_40": {
+        "name": "I'm Not Dead Yet",
+        "description": "Win the Black Death after turn 80",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_41": {
+        "name": "Aggressive Strain",
+        "description": "Win the Black Death after conquering five cities",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_42": {
+        "name": "Medieval Medicine",
+        "description": "Train 25 Plague Doctors during the Black Death scenario",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_43": {
+        "name": "Élan",
+        "description": "Win War Machine as France",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_44": {
+        "name": "Auftragstaktik",
+        "description": "Win War Machine as Germany",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_45": {
+        "name": "With The Army You Have",
+        "description": "Win War Machine without training any units",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_46": {
+        "name": "Vernichtungsstrategie",
+        "description": "As Germany, win War Machine within 25 turns",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_47": {
+        "name": "Croix de Lorraine",
+        "description": "In War Machine, as France, conquer Metz within 5 turns",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_48": {
+        "name": "Big Bertha",
+        "description": "In War Machine, reduce and capture a full-health city in a single turn",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_49": {
+        "name": "Danse Macabre",
+        "description": "Win the Black Death scenario on Deity difficulty",
+        "leader-specific": false
+    },
+    "VSV_ACHIEVEMENT_50": {
+        "name": "Hello Cleveland!",
+        "description": "Perform a Rock Concert in Cleveland",
+        "leader-specific": false
+    },
+    "ROYALE_ACHIEVEMENT_01": {
+        "name": "The Test of Royale",
+        "description": "Win the Red Death scenario",
+        "leader-specific": false
+    },
+    "ROYALE_ACHIEVEMENT_02": {
+        "name": "Do Unto Others",
+        "description": "Nuclear Strike another faction in the Red Death scenario",
+        "leader-specific": false
+    },
+    "ROYALE_ACHIEVEMENT_03": {
+        "name": "Have Them Do Unto You",
+        "description": "Get nuked by another faction in the Red Death scenario",
+        "leader-specific": false
+    },
+    "ROYALE_ACHIEVEMENT_04": {
+        "name": "Reinforcements Have Arrived",
+        "description": "Claim a Supply Drop in the Red Death scenario",
+        "leader-specific": false
+    },
+    "ROYALE_ACHIEVEMENT_05": {
+        "name": "The Good Die Young",
+        "description": "Lose your last Civilian within the first ten turns in the Red Death scenario",
+        "leader-specific": false
+    },
+    "STK1_ACHIEVEMENT_01": {
+        "name": "The stars are right",
+        "description": "Win a regular game as Lady Six Sky.",
+        "leader-specific": true,
+        "leaders": [
+            "Lady Six Sky"
+        ]
+    },
+    "STK1_ACHIEVEMENT_02": {
+        "name": "El Libertador",
+        "description": "Win a regular game as Simón Bolívar.",
+        "leader-specific": true,
+        "leaders": [
+            "Simón Bolívar"
+        ]
+    },
+    "STK1_ACHIEVEMENT_03": {
+        "name": "Court of Itzamna",
+        "description": "As the Maya found a settlement adjacent to 4 luxury resources.",
+        "leader-specific": true,
+        "leaders": [
+            "Lady Six Sky"
+        ]
+    },
+    "STK1_ACHIEVEMENT_04": {
+        "name": "To plow the sea",
+        "description": "As Simón Bolívar activate all the Comandante Generals across multiple games.",
+        "leader-specific": true,
+        "leaders": [
+            "Simón Bolívar"
+        ]
+    },
+    "STK1_ACHIEVEMENT_05": {
+        "name": "I'll melt with you",
+        "description": "Win any Victory with Apocalypse mode enabled.",
+        "leader-specific": false
+    },
+    "STK1_ACHIEVEMENT_06": {
+        "name": "The end of the world as we know it",
+        "description": "Be the last person standing after comets begin falling.",
+        "leader-specific": false
+    },
+    "STK1_ACHIEVEMENT_07": {
+        "name": "The accursed share",
+        "description": "Use a max-promotions Soothsayer to sacrifice a max-promotions GDR.",
+        "leader-specific": false
+    },
+    "RD2_ACHIEVEMENT_01": {
+        "name": "Ashes of Time",
+        "description": "Wanderers - Explore 30 city ruins across multiple games.",
+        "leader-specific": false
+    },
+    "RD2_ACHIEVEMENT_02": {
+        "name": "Experience Is Everything",
+        "description": "Preppers - Have 5 units earn 5 promotions across multiple games.",
+        "leader-specific": false
+    },
+    "RD2_ACHIEVEMENT_03": {
+        "name": "It's Alive!",
+        "description": "Mad Scientists - Heal 1000 health points across multiple games.",
+        "leader-specific": false
+    },
+    "RD2_ACHIEVEMENT_04": {
+        "name": "Hope Springs Eternal",
+        "description": "Be defeated 5 times in the Red Death scenario.",
+        "leader-specific": false
+    },
+    "RD2_ACHIEVEMENT_05": {
+        "name": "From the Outer Darkness",
+        "description": "Mutants - Attack a unit outside the Red Death while inside the Red Death 20 times.",
+        "leader-specific": false
+    },
+    "RD2_ACHIEVEMENT_06": {
+        "name": "Getting Pruney",
+        "description": "Pirates - Spend 50 turns in the water across multiple games.",
+        "leader-specific": false
+    },
+    "RD2_ACHIEVEMENT_07": {
+        "name": "U mad, bro?",
+        "description": "Borderlords - Trick enemy factions into triggering Grieving Gifts 5 times across multiple games.",
+        "leader-specific": false
+    },
+    "RD2_ACHIEVEMENT_08": {
+        "name": "It Hungers",
+        "description": "Cultists - Kill 10 units with the Undying Eye.",
+        "leader-specific": false
+    },
+    "RD2_ACHIEVEMENT_09": {
+        "name": "NERDS!",
+        "description": "Jocks - Use Hail Marys to wound, but not kill, 5 Civilians across multiple games.",
+        "leader-specific": false
+    },
+    "RD2_ACHIEVEMENT_10": {
+        "name": "They're coming to get you, Barbara",
+        "description": "Zombie Beastmasters - Spawn 30 Zombie Hordes through combat kills.",
+        "leader-specific": false
+    },
+    "RD2_ACHIEVEMENT_11": {
+        "name": "Out of Sight, Out of Mind",
+        "description": "Aliens - Attack while cloaked 20 times.",
+        "leader-specific": false
+    },
+    "STK2_ACHIEVEMENT_01": {
+        "name": "The Lion of Judah",
+        "description": "Win a regular game as Menelik II.",
+        "leader-specific": true,
+        "leaders": [
+            "Menelik II"
+        ]
+    },
+    "STK2_ACHIEVEMENT_02": {
+        "name": "Battle of Adwa",
+        "description": "Defeat an Infantry unit whose capital is on another continent with an Oromo Cavalry.",
+        "leader-specific": true,
+        "leaders": [
+            "Menelik II"
+        ]
+    },
+    "STK2_ACHIEVEMENT_03": {
+        "name": "The Mask of Baphomet",
+        "description": "Earn all Governor promotions for the Owls of Minerva Secret Society.",
+        "leader-specific": false
+    },
+    "STK2_ACHIEVEMENT_04": {
+        "name": "Voice of Aiwass",
+        "description": "Earn all Governor promotions for the Hermetic Order Secret Society.",
+        "leader-specific": false
+    },
+    "STK2_ACHIEVEMENT_05": {
+        "name": "Dead But Dreaming",
+        "description": "Earn all Governor promotions for the Voidsingers Secret Society.",
+        "leader-specific": false
+    },
+    "STK2_ACHIEVEMENT_06": {
+        "name": "This Blood is the Life",
+        "description": "Earn all Governor promotions for the Sanguine Pact Secret Society.",
+        "leader-specific": false
+    }
+}
