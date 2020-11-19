@@ -1708,27 +1708,112 @@
         ]
     },
     "STK3_ACHIEVEMENT_05": {
-        "achieved": 0,
-        "unlocktime": 0,
         "name": "Things Fall Apart",
         "description": "In Dramatic Ages Mode, lose 4 or more cities by entering a Dark Age.",
         "leader-specific": false
     },
     "STK3_ACHIEVEMENT_06": {
-        "achieved": 0,
-        "unlocktime": 0,
         "name": "The City Ever-Shining",
         "description": "In Dramatic Ages Mode, enter a Golden Age with an excess 20 Era Score",
         "leader-specific": false
     },
     "STK3_ACHIEVEMENT_07": {
-        "achieved": 0,
-        "unlocktime": 0,
         "name": "No Light Without the Dark",
         "description": "In Dramatic Age Mode, as Georgia, have simultaneously a Golden and a Dark Policy active.",
         "leader-specific": true,
         "leaders": [
             "Tamar"
         ]
+    },
+    "ARR_ACHIEVEMENT_01": {
+        "name": "The Abyss is Hungry",
+        "description": "Dread Pirate - Sink 10 ships while using Walk the Plank across multiple games.",
+        "leader-specific": false
+    },
+    "ARR_ACHIEVEMENT_02": {
+        "name": "Naval Supremacy",
+        "description": "Privateer - Ensure that your patron has a naval fleet twice the size of any other colonial power.",
+        "leader-specific": false
+    },
+    "ARR_ACHIEVEMENT_03": {
+        "name": "Port in Every Storm",
+        "description": "Swashbuckler - Visit the tavern of 10 ports in a single game.",
+        "leader-specific": false
+    },
+    "ARR_ACHIEVEMENT_04": {
+        "name": "Love It When a Plan Comes Together",
+        "description": "Hoarder - Sink or capture a treasure ship while a treasure escort is locked by a chainshot.",
+        "leader-specific": false
+    },
+    "ARR_ACHIEVEMENT_05": {
+        "name": "I am a Pirate King!",
+        "description": "Win the Pirates scenario.",
+        "leader-specific": false
+    },
+    "ARR_ACHIEVEMENT_06": {
+        "name": "Forced Retirement",
+        "description": "Lose the Pirates scenario due to mutiny.",
+        "leader-specific": false
+    },
+    "ARR_ACHIEVEMENT_07": {
+        "name": "Liquid Assets",
+        "description": "Sink or capture a treasure ship.",
+        "leader-specific": false
+    },
+    "ARR_ACHIEVEMENT_08": {
+        "name": "Mine! Mine! Mine!",
+        "description": "Win the Pirates scenario using mostly Treasure Points.",
+        "leader-specific": false
+    },
+    "ARR_ACHIEVEMENT_09": {
+        "name": "I am Kind of a Big Deal",
+        "description": "Win the Pirates scenario using mostly Infamous Pirate Points.",
+        "leader-specific": false
+    },
+    "ARR_ACHIEVEMENT_10": {
+        "name": "I Want You to Hit Me as Hard as You Can",
+        "description": "Win the Pirates scenario using mostly Fightin' Points.",
+        "leader-specific": false
+    },
+    "STK4_ACHIEVEMENT_01": {
+        "name": "Babylon Rocker",
+        "description": "Win a regular game as Hammurabi.",
+        "leader-specific": true,
+        "leaders": [
+            "Hammurabi"
+        ]
+    },
+    "STK4_ACHIEVEMENT_02": {
+        "name": "Let's Do the Time Warp Again",
+        "description": "As Babylon, earn 5 tech boosts for techs that are at least one era later than your current era.",
+        "leader-specific": true,
+        "leaders": [
+            "Hammurabi"
+        ]
+    },
+    "STK4_ACHIEVEMENT_03": {
+        "name": "Sing, O Muse",
+        "description": "Claim every Hero across multiple games.",
+        "leader-specific": false
+    },
+    "STK4_ACHIEVEMENT_04": {
+        "name": "Clash of the Titans",
+        "description": "Kill an enemy Hero with your Hero.",
+        "leader-specific": false
+    },
+    "STK4_ACHIEVEMENT_05": {
+        "name": "The Brave Live Forever",
+        "description": "Recall a Hero 5 times in a single game.",
+        "leader-specific": false
+    },
+    "STK4_ACHIEVEMENT_06": {
+        "name": "Steel-Driving Man",
+        "description": "Recall a Hero after the Industrial Era.",
+        "leader-specific": false
+    },
+    "STK4_ACHIEVEMENT_07": {
+        "name": "The Dream Team",
+        "description": "Claim 5 Heroes in a single game.",
+        "leader-specific": false
     }
 }
