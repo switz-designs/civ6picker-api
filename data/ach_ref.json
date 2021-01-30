@@ -1815,5 +1815,38 @@
         "name": "The Dream Team",
         "description": "Claim 5 Heroes in a single game.",
         "leader-specific": false
+    },
+    "STK5_ACHIEVEMENT_01": {
+        "name": "I will not bend my back",
+        "description": "Win a regular game as Bà Triệu.",
+        "leader-specific": true,
+        "leaders": [
+            "Bà Triệu"
+        ]
+
+    },
+    "STK5_ACHIEVEMENT_02": {
+        "name": "For he on honey-dew hath fed",
+        "description": "Win a regular game as Kublai Khan.",
+        "leader-specific": true,
+        "leaders": [
+            "Kublai Khan (China)",
+            "Kublai Khan (Mongolia)"
+        ]
+    },
+    "STK5_ACHIEVEMENT_03": {
+        "name": "Top Hat and Monocle",
+        "description": "Control a 100% Monopoly on a given Luxury Resource on a Standard sized map or larger.",
+        "leader-specific": false
+    },
+    "STK5_ACHIEVEMENT_04": {
+        "name": "Jack of all Trades, Master of None",
+        "description": "Win a game on a Standard sized map or larger with 5 or more Industries, but no Corporations.",
+        "leader-specific": false
+    },
+    "STK5_ACHIEVEMENT_05": {
+        "name": "Robber Baron",
+        "description": "Control 5 Luxury Resource Monopolies at once on a Standard sized map or larger.",
+        "leader-specific": false
     }
 }
