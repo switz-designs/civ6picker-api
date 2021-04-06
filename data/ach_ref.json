@@ -2,7 +2,11 @@
     "NEW_ACHIEVEMENT_2_0": {
         "name": "Game, Settler, Match",
         "description": "Win a regular game at Settler difficulty or harder",
-        "leader-specific": false
+        "leader-specific": false,
+        "scenario": "standard",
+        "mode": "any",
+        "map-type": "any",
+        "map-size": "any"
     },
     "NEW_ACHIEVEMENT_2_1": {
         "name": "Irish Heartbeat",
@@ -1847,6 +1851,37 @@
     "STK5_ACHIEVEMENT_05": {
         "name": "Robber Baron",
         "description": "Control 5 Luxury Resource Monopolies at once on a Standard sized map or larger.",
+        "leader-specific": false
+    },
+    "STK6_ACHIEVEMENT_01": {
+        "name": "The Spice Must Flow",
+        "description": "Win a regular game as João III.",
+        "leader-specific": true,
+        "leaders": [
+            "João III"
+        ]
+    },
+    "STK6_ACHIEVEMENT_02": {
+        "name": "Ultramar Português",
+        "description": "As Portugal, have a Trading Post in cities belonging to Brazil, India, and Japan.",
+        "leader-specific": true,
+        "leaders": [
+            "João III"
+        ]
+    },
+    "STK6_ACHIEVEMENT_03": {
+        "name": "Re-Animator",
+        "description": "Control at least 20 Zombie units at the start of your turn.",
+        "leader-specific": false
+    },
+    "STK6_ACHIEVEMENT_04": {
+        "name": "Well Hello Mr. Fancypants",
+        "description": "Destroy a Zombie unit that has +50 or more Mutation Strength.",
+        "leader-specific": false
+    },
+    "STK6_ACHIEVEMENT_05": {
+        "name": "It's a Trap!!!",
+        "description": "Deal 50 or more damage to a single unit from trap damage on a single tile in one turn.",
         "leader-specific": false
     }
 }
